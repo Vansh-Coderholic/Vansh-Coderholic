@@ -2,6 +2,7 @@ Hi, I’m Vansh 👨‍💻 — a 19-year-old student pursuing Electronics and C
 I’m passionate about blending software development with hardware innovation, and I love bringing ideas to life through both code and circuits.
 
 💡 What I Do
+
 💻 Write clean and efficient code in Python, Java, and SQL
 
 📊 Create insightful data visualizations using Tableau
