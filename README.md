@@ -1,4 +1,4 @@
-Hi, I’m Vansh 👨‍💻 — a 20-year-old student pursuing Electronics and Computer Engineering.
+Hi, I’m Vansh 👨‍💻 — a 19-year-old student pursuing Electronics and Computer Engineering.
 I’m passionate about blending software development with hardware innovation, and I love bringing ideas to life through both code and circuits.
 
 💡 What I Do
